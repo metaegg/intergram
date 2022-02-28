@@ -1,9 +1,7 @@
-# Intergram - [Demo](https://www.intergram.xyz/)
+# Intergram
 
 A **Free** live chat widget that you can easily add to your website. It will let you chat with your website visitors using your Telegram messenger. 
 
-#### :tada: Main Contributors :tada:
-- [aslauris](https://github.com/aslauris) - Who redesgined the new UI! Check out his website - [wedofe.com](https://www.wedofe.com/)
 
 ![](https://user-images.githubusercontent.com/5776439/40442974-c107cb4a-5e79-11e8-8af1-4d2c8be14f48.gif)
 
@@ -47,7 +45,7 @@ Currently you can customize all visible texts and the main widget color by setti
         alwaysUseFloatingButton: false // Use the mobile floating button also on large screens
     };
 </script>
-<script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
+<script id="intergram" type="text/javascript" src="https://www.metaegg.io/js/widget.js"></script>
 ```
 
 <p align="center"> <img src="docs/hello.jpg"/> </p>
