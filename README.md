@@ -29,7 +29,7 @@ By using a Telegram bot, I delegate all the message routing work and chat state 
 
 **Important Notice:** I plan to keep the hosted chat service 100% free (no ads also!), but there are some hosting expenses (servers, domain, cdn, etc), so I will soon start bundeling a [Loadmill](https://www.loadmill.com) component with the Intergram script. Loadmill is a new concept and still in Beta - **If you don't feel comfortable with this, please use your own self hosted version.**
 
-### Customization - [Try It](https://jsfiddle.net/z9ffzr9n/6/)
+### Customization 
 Currently you can customize all visible texts and the main widget color by setting an optional `intergramCustomizations` object in the injection script tag. (All its properties are also optional and will fallback to their original values)
 ```html
 <script> 
