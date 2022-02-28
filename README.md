@@ -22,7 +22,7 @@ By using a Telegram bot, I delegate all the message routing work and chat state 
 
 ```html
 <script> window.intergramId = "Your unique chat id" </script>
-<script id="intergram" type="text/javascript" src="https://www.intergram.xyz/js/widget.js"></script>
+<script id="intergram" type="text/javascript" src="https://www.metaegg.io/js/widget.js"></script>
 ```
 
 *Note: replying to a specific message should be used to respond to that specific visitor. Sending a standard message will broadcast to all connected chat clients (You might find it easier to use if you have only one active conversation)*
